@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
+title: Gershom A. James
 # disabled because we are using a custom domain
-#baseurl: /hagura # name of the repository
+baseurl: https://gershomajames.github.io # name of the repository
 email: your@email.com
 
 highlighter: rouge
