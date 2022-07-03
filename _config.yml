@@ -2,8 +2,8 @@
 
 title: Gershom A. James
 # disabled because we are using a custom domain
-baseurl: https://gershomajames.github.io # name of the repository
-email: your@email.com
+#baseurl: https://gershomajames.github.io # name of the repository
+email: gershomjames@email.com
 
 highlighter: rouge
 
@@ -14,7 +14,7 @@ paginate_path: /page:num/
 
 
 # Tracker
-analytics: UA-83979019-4
+analytics: G-VK2XE8N740
 
 # Comments
 disqus-shortname: webjeda-demo
