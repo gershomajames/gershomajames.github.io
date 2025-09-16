@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Gershom A. James
+title: Declassified Diary of My Thoughts
 # disabled because we are using a custom domain
 #baseurl: https://gershomajames.github.io # name of the repository
 email: gershomjames@email.com
@@ -17,7 +17,7 @@ paginate_path: /page:num/
 analytics: G-VK2XE8N740
 
 # Comments
-disqus-shortname: webjeda-demo
+# disqus-shortname: webjeda-demo
 
 
 #optimization
