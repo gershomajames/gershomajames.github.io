@@ -5,10 +5,5 @@ permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
-
-Does the theme deserve a star?
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sharu725/hagura" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Hey there! My name is Gershom and this is where I'll be talking about random stuff that I am thinking about, sort of like a declassified diary of my thoughts!
+Here you will find my hopes, frustrations, and ideas all in one place. Not everything I say here is what I completely believe, but more of a place for me to type out my thoughts. I will say confidently that my thoughts and the feelings for that day, unless it's very serious, go away when I wake up. It is with that sort of mindset that I will be writing these little entries. Each day stays in itself. Please don't take things personally because I know a few of you that know me might stumble across this. I love every single one of you guys and I hope that you can get something out of this!
