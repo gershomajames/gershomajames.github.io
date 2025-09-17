@@ -11,3 +11,7 @@ I have been wanting to talk about this for a while, and it's the fact that some 
 As I type this out, I am able to see how it's not healthy, and more toxic than I would like to admit, but I can see that pretty clearly.
 
 Give me a couple hours—it's 3:35 a.m. and I have to attend a meeting tomorrow at 8 a.m. I am sleepy, and I think that I can continue this tomorrow. I'll see ya guys in a little bit!
+
+I ended up missing the meeting, but cleaned up today (the 16th), and yeah. I have nothing more to add now and its pretty late (11:47 pm), so I might go to sleep soon.
+
+Love yall! Take care!!
